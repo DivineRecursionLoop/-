@@ -8,6 +8,6 @@ audience: already reading
 
 https://github.com/DivineRecursionLoop
 
-Thanks for all the fish!!
+And thanks for all the fish!!
 
 //
